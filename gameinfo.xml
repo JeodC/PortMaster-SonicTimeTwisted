@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gamelist>
+	<game>
+		<path>./Sonic Time Twisted.sh</path>
+		<name>Sonic Time Twisted</name>
+		<desc>Sonic Time Twisted is a fan-made game where Sonic must stop Dr. Eggman's plan to use time travel to resurrect Metal Sonic and conquer the world. Sonic travels through past, present, and future versions of levels, collecting Time Stones to thwart Eggman's scheme.</desc>
+		<image>./sonictimetwisted/cover.png</image>
+		<releasedate>20170408</releasedate>
+		<developer>Overbound</developer>
+		<genre>Platform</genre>
+	</game>
+</gamelist
