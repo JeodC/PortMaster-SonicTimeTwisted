@@ -1,5 +1,5 @@
 ## Installation
-Download the Windows version of the game from [Gamejolt](https://gamejolt.com/games/sonic-time-twisted/24775) and place the entire `.zip` in `ports/sonictimetwisted` without extracting.
+Ready to run! Uses [gmloader](https://github.com/JohnnyonFlame/droidports) and [SonicTimeTwisted](https://github.com/overbound/SonicTimeTwisted) open source repository.
 
 ## Default Gameplay Controls
 | Button | Action |
@@ -9,3 +9,8 @@ Download the Windows version of the game from [Gamejolt](https://gamejolt.com/ga
 |LEFT ANALOG|Move|
 |ABXY|Jump / Fly|
 |DOWN + ABXY|Spindash|
+
+## Thanks
+Overbound -- For the game  
+JohnnyOnFlame -- For gmloader  
+Tekkenfedde -- For the original idea  
