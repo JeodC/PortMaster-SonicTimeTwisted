@@ -13,15 +13,15 @@
 			"tekkenfede"
         ],
         "desc": "Sonic Time Twisted is a fan-made game where Sonic must stop Dr. Eggman's plan to use time travel to resurrect Metal Sonic and conquer the world. Sonic travels through past, present, and future versions of levels, collecting Time Stones to thwart Eggman's scheme.",
-        "inst": "Download the Windows version from https://gamejolt.com/games/sonic-time-twisted/24775 and place in /ports/Sonictimetwisted",
+        "inst": "Ready to run!",
         "genres": [
             "platformer"
         ],
         "image": null,
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "reqs": [],
         "exp": false,
-        "arch": []
+        "arch": ["armhf"]
     },
 }
